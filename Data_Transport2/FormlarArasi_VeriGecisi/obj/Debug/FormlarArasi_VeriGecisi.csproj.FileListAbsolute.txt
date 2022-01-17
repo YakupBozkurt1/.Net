@@ -1,0 +1,11 @@
+C:\Users\YAKUP\source\repos\FormlarArasi_VeriGecisi\FormlarArasi_VeriGecisi\bin\Debug\FormlarArasi_VeriGecisi.exe.config
+C:\Users\YAKUP\source\repos\FormlarArasi_VeriGecisi\FormlarArasi_VeriGecisi\bin\Debug\FormlarArasi_VeriGecisi.exe
+C:\Users\YAKUP\source\repos\FormlarArasi_VeriGecisi\FormlarArasi_VeriGecisi\bin\Debug\FormlarArasi_VeriGecisi.pdb
+C:\Users\YAKUP\source\repos\FormlarArasi_VeriGecisi\FormlarArasi_VeriGecisi\obj\Debug\FormlarArasi_VeriGecisi.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\FormlarArasi_VeriGecisi\FormlarArasi_VeriGecisi\obj\Debug\FormlarArasi_VeriGecisi.Form1.resources
+C:\Users\YAKUP\source\repos\FormlarArasi_VeriGecisi\FormlarArasi_VeriGecisi\obj\Debug\FormlarArasi_VeriGecisi.Form2.resources
+C:\Users\YAKUP\source\repos\FormlarArasi_VeriGecisi\FormlarArasi_VeriGecisi\obj\Debug\FormlarArasi_VeriGecisi.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\FormlarArasi_VeriGecisi\FormlarArasi_VeriGecisi\obj\Debug\FormlarArasi_VeriGecisi.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\FormlarArasi_VeriGecisi\FormlarArasi_VeriGecisi\obj\Debug\FormlarArasi_VeriGecisi.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\FormlarArasi_VeriGecisi\FormlarArasi_VeriGecisi\obj\Debug\FormlarArasi_VeriGecisi.exe
+C:\Users\YAKUP\source\repos\FormlarArasi_VeriGecisi\FormlarArasi_VeriGecisi\obj\Debug\FormlarArasi_VeriGecisi.pdb

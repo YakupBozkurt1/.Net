@@ -1,0 +1,11 @@
+C:\Users\YAKUP\source\repos\Formlar_Arası_Veri_Tasima\Formlar_Arası_Veri_Tasima\bin\Debug\Formlar_Arası_Veri_Tasima.exe.config
+C:\Users\YAKUP\source\repos\Formlar_Arası_Veri_Tasima\Formlar_Arası_Veri_Tasima\bin\Debug\Formlar_Arası_Veri_Tasima.exe
+C:\Users\YAKUP\source\repos\Formlar_Arası_Veri_Tasima\Formlar_Arası_Veri_Tasima\bin\Debug\Formlar_Arası_Veri_Tasima.pdb
+C:\Users\YAKUP\source\repos\Formlar_Arası_Veri_Tasima\Formlar_Arası_Veri_Tasima\obj\Debug\Formlar_Arası_Veri_Tasima.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Formlar_Arası_Veri_Tasima\Formlar_Arası_Veri_Tasima\obj\Debug\Formlar_Arası_Veri_Tasima.Form1.resources
+C:\Users\YAKUP\source\repos\Formlar_Arası_Veri_Tasima\Formlar_Arası_Veri_Tasima\obj\Debug\Formlar_Arası_Veri_Tasima.Form2.resources
+C:\Users\YAKUP\source\repos\Formlar_Arası_Veri_Tasima\Formlar_Arası_Veri_Tasima\obj\Debug\Formlar_Arası_Veri_Tasima.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Formlar_Arası_Veri_Tasima\Formlar_Arası_Veri_Tasima\obj\Debug\Formlar_Arası_Veri_Tasima.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Formlar_Arası_Veri_Tasima\Formlar_Arası_Veri_Tasima\obj\Debug\Formlar_Arası_Veri_Tasima.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Formlar_Arası_Veri_Tasima\Formlar_Arası_Veri_Tasima\obj\Debug\Formlar_Arası_Veri_Tasima.exe
+C:\Users\YAKUP\source\repos\Formlar_Arası_Veri_Tasima\Formlar_Arası_Veri_Tasima\obj\Debug\Formlar_Arası_Veri_Tasima.pdb

@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\ContextMenuStrip_Kullanimi\ContextMenuStrip_Kullanimi\bin\Debug\ContextMenuStrip_Kullanimi.exe.config
+C:\Users\YAKUP\source\repos\ContextMenuStrip_Kullanimi\ContextMenuStrip_Kullanimi\bin\Debug\ContextMenuStrip_Kullanimi.exe
+C:\Users\YAKUP\source\repos\ContextMenuStrip_Kullanimi\ContextMenuStrip_Kullanimi\bin\Debug\ContextMenuStrip_Kullanimi.pdb
+C:\Users\YAKUP\source\repos\ContextMenuStrip_Kullanimi\ContextMenuStrip_Kullanimi\obj\Debug\ContextMenuStrip_Kullanimi.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\ContextMenuStrip_Kullanimi\ContextMenuStrip_Kullanimi\obj\Debug\ContextMenuStrip_Kullanimi.Form1.resources
+C:\Users\YAKUP\source\repos\ContextMenuStrip_Kullanimi\ContextMenuStrip_Kullanimi\obj\Debug\ContextMenuStrip_Kullanimi.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\ContextMenuStrip_Kullanimi\ContextMenuStrip_Kullanimi\obj\Debug\ContextMenuStrip_Kullanimi.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\ContextMenuStrip_Kullanimi\ContextMenuStrip_Kullanimi\obj\Debug\ContextMenuStrip_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\ContextMenuStrip_Kullanimi\ContextMenuStrip_Kullanimi\obj\Debug\ContextMenuStrip_Kullanimi.exe
+C:\Users\YAKUP\source\repos\ContextMenuStrip_Kullanimi\ContextMenuStrip_Kullanimi\obj\Debug\ContextMenuStrip_Kullanimi.pdb

@@ -1,0 +1,7 @@
+C:\Users\YAKUP\source\repos\Constructer_Metot2\Constructer_Metot2\bin\Debug\Constructer_Metot2.exe.config
+C:\Users\YAKUP\source\repos\Constructer_Metot2\Constructer_Metot2\bin\Debug\Constructer_Metot2.exe
+C:\Users\YAKUP\source\repos\Constructer_Metot2\Constructer_Metot2\bin\Debug\Constructer_Metot2.pdb
+C:\Users\YAKUP\source\repos\Constructer_Metot2\Constructer_Metot2\obj\Debug\Constructer_Metot2.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Constructer_Metot2\Constructer_Metot2\obj\Debug\Constructer_Metot2.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Constructer_Metot2\Constructer_Metot2\obj\Debug\Constructer_Metot2.exe
+C:\Users\YAKUP\source\repos\Constructer_Metot2\Constructer_Metot2\obj\Debug\Constructer_Metot2.pdb
