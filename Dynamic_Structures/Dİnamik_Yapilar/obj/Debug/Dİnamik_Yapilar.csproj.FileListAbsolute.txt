@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\Dİnamik_Yapilar\Dİnamik_Yapilar\bin\Debug\Dİnamik_Yapilar.exe.config
+C:\Users\YAKUP\source\repos\Dİnamik_Yapilar\Dİnamik_Yapilar\bin\Debug\Dİnamik_Yapilar.exe
+C:\Users\YAKUP\source\repos\Dİnamik_Yapilar\Dİnamik_Yapilar\bin\Debug\Dİnamik_Yapilar.pdb
+C:\Users\YAKUP\source\repos\Dİnamik_Yapilar\Dİnamik_Yapilar\obj\Debug\Dİnamik_Yapilar.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Dİnamik_Yapilar\Dİnamik_Yapilar\obj\Debug\Dİnamik_Yapilar.Form1.resources
+C:\Users\YAKUP\source\repos\Dİnamik_Yapilar\Dİnamik_Yapilar\obj\Debug\Dİnamik_Yapilar.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Dİnamik_Yapilar\Dİnamik_Yapilar\obj\Debug\Dİnamik_Yapilar.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Dİnamik_Yapilar\Dİnamik_Yapilar\obj\Debug\Dİnamik_Yapilar.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Dİnamik_Yapilar\Dİnamik_Yapilar\obj\Debug\Dİnamik_Yapilar.exe
+C:\Users\YAKUP\source\repos\Dİnamik_Yapilar\Dİnamik_Yapilar\obj\Debug\Dİnamik_Yapilar.pdb

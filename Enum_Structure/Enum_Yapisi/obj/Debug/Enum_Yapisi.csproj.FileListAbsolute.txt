@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\Enum_Yapisi\Enum_Yapisi\bin\Debug\Enum_Yapisi.exe.config
+C:\Users\YAKUP\source\repos\Enum_Yapisi\Enum_Yapisi\bin\Debug\Enum_Yapisi.exe
+C:\Users\YAKUP\source\repos\Enum_Yapisi\Enum_Yapisi\bin\Debug\Enum_Yapisi.pdb
+C:\Users\YAKUP\source\repos\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.Form1.resources
+C:\Users\YAKUP\source\repos\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.exe
+C:\Users\YAKUP\source\repos\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.pdb

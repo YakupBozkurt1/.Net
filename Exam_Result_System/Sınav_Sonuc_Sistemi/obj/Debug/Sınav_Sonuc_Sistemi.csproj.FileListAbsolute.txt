@@ -1,0 +1,11 @@
+C:\Users\YAKUP\source\repos\Sınav_Sonuc_Sistemi\Sınav_Sonuc_Sistemi\bin\Debug\Sınav_Sonuc_Sistemi.exe.config
+C:\Users\YAKUP\source\repos\Sınav_Sonuc_Sistemi\Sınav_Sonuc_Sistemi\bin\Debug\Sınav_Sonuc_Sistemi.exe
+C:\Users\YAKUP\source\repos\Sınav_Sonuc_Sistemi\Sınav_Sonuc_Sistemi\bin\Debug\Sınav_Sonuc_Sistemi.pdb
+C:\Users\YAKUP\source\repos\Sınav_Sonuc_Sistemi\Sınav_Sonuc_Sistemi\obj\Debug\Sınav_Sonuc_Sistemi.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Sınav_Sonuc_Sistemi\Sınav_Sonuc_Sistemi\obj\Debug\Sınav_Sonuc_Sistemi.AnaForm.resources
+C:\Users\YAKUP\source\repos\Sınav_Sonuc_Sistemi\Sınav_Sonuc_Sistemi\obj\Debug\Sınav_Sonuc_Sistemi.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Sınav_Sonuc_Sistemi\Sınav_Sonuc_Sistemi\obj\Debug\Sınav_Sonuc_Sistemi.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Sınav_Sonuc_Sistemi\Sınav_Sonuc_Sistemi\obj\Debug\Sınav_Sonuc_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Sınav_Sonuc_Sistemi\Sınav_Sonuc_Sistemi\obj\Debug\Sınav_Sonuc_Sistemi.exe
+C:\Users\YAKUP\source\repos\Sınav_Sonuc_Sistemi\Sınav_Sonuc_Sistemi\obj\Debug\Sınav_Sonuc_Sistemi.pdb
+C:\Users\YAKUP\source\repos\Sınav_Sonuc_Sistemi\Sınav_Sonuc_Sistemi\obj\Debug\Sınav_Sonuc_Sistemi.Sonuc_Sorgula.resources
