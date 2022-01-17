@@ -1,0 +1,14 @@
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\bin\Debug\Personel_Kayit_Projesi.exe.config
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\bin\Debug\Personel_Kayit_Projesi.exe
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\bin\Debug\Personel_Kayit_Projesi.pdb
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\obj\Debug\Personel_Kayit_Projesi.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\obj\Debug\Personel_Kayit_Projesi.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\obj\Debug\Personel_Kayit_Projesi.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\obj\Debug\Personel_Kayit_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\obj\Debug\Personel_Kayit_Projesi.exe
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\obj\Debug\Personel_Kayit_Projesi.pdb
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\obj\Debug\Personel_Kayit_Projesi.FrmIstatistik.resources
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\obj\Debug\Personel_Kayit_Projesi.FrmStats.resources
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\obj\Debug\Personel_Kayit_Projesi.AnaForm.resources
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\obj\Debug\Personel_Kayit_Projesi.FormGraph.resources
+C:\Users\YAKUP\source\repos\Personel_Kayit_Projesi\Personel_Kayit_Projesi\obj\Debug\Personel_Kayit_Projesi.FrmGiris.resources
