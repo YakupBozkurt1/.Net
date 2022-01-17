@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\Sinema_Bufe_Paneli\Sinema_Bufe_Paneli\obj\Debug\Sinema_Bufe_Paneli.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Sinema_Bufe_Paneli\Sinema_Bufe_Paneli\obj\Debug\Sinema_Bufe_Paneli.Form1.resources
+C:\Users\YAKUP\source\repos\Sinema_Bufe_Paneli\Sinema_Bufe_Paneli\obj\Debug\Sinema_Bufe_Paneli.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Sinema_Bufe_Paneli\Sinema_Bufe_Paneli\obj\Debug\Sinema_Bufe_Paneli.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Sinema_Bufe_Paneli\Sinema_Bufe_Paneli\obj\Debug\Sinema_Bufe_Paneli.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Sinema_Bufe_Paneli\Sinema_Bufe_Paneli\bin\Debug\Sinema_Bufe_Paneli.exe.config
+C:\Users\YAKUP\source\repos\Sinema_Bufe_Paneli\Sinema_Bufe_Paneli\bin\Debug\Sinema_Bufe_Paneli.exe
+C:\Users\YAKUP\source\repos\Sinema_Bufe_Paneli\Sinema_Bufe_Paneli\bin\Debug\Sinema_Bufe_Paneli.pdb
+C:\Users\YAKUP\source\repos\Sinema_Bufe_Paneli\Sinema_Bufe_Paneli\obj\Debug\Sinema_Bufe_Paneli.exe
+C:\Users\YAKUP\source\repos\Sinema_Bufe_Paneli\Sinema_Bufe_Paneli\obj\Debug\Sinema_Bufe_Paneli.pdb

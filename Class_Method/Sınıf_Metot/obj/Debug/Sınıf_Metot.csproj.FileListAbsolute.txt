@@ -1,0 +1,7 @@
+C:\Users\YAKUP\source\repos\Sınıf_Metot\Sınıf_Metot\obj\Debug\Sınıf_Metot.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Sınıf_Metot\Sınıf_Metot\obj\Debug\Sınıf_Metot.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Sınıf_Metot\Sınıf_Metot\bin\Debug\Sınıf_Metot.exe.config
+C:\Users\YAKUP\source\repos\Sınıf_Metot\Sınıf_Metot\bin\Debug\Sınıf_Metot.exe
+C:\Users\YAKUP\source\repos\Sınıf_Metot\Sınıf_Metot\bin\Debug\Sınıf_Metot.pdb
+C:\Users\YAKUP\source\repos\Sınıf_Metot\Sınıf_Metot\obj\Debug\Sınıf_Metot.exe
+C:\Users\YAKUP\source\repos\Sınıf_Metot\Sınıf_Metot\obj\Debug\Sınıf_Metot.pdb

@@ -1,0 +1,7 @@
+C:\Users\YAKUP\source\repos\Sınıflar_Metotlar2\Sınıflar_Metotlar2\bin\Debug\Sınıflar_Metotlar2.exe.config
+C:\Users\YAKUP\source\repos\Sınıflar_Metotlar2\Sınıflar_Metotlar2\bin\Debug\Sınıflar_Metotlar2.exe
+C:\Users\YAKUP\source\repos\Sınıflar_Metotlar2\Sınıflar_Metotlar2\bin\Debug\Sınıflar_Metotlar2.pdb
+C:\Users\YAKUP\source\repos\Sınıflar_Metotlar2\Sınıflar_Metotlar2\obj\Debug\Sınıflar_Metotlar2.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Sınıflar_Metotlar2\Sınıflar_Metotlar2\obj\Debug\Sınıflar_Metotlar2.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Sınıflar_Metotlar2\Sınıflar_Metotlar2\obj\Debug\Sınıflar_Metotlar2.exe
+C:\Users\YAKUP\source\repos\Sınıflar_Metotlar2\Sınıflar_Metotlar2\obj\Debug\Sınıflar_Metotlar2.pdb

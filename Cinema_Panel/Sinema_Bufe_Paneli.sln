@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinema_Bufe_Paneli", "Sinema_Bufe_Paneli\Sinema_Bufe_Paneli.csproj", "{A975D863-1CC4-437B-9CFA-BF38A8BE0BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A975D863-1CC4-437B-9CFA-BF38A8BE0BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A975D863-1CC4-437B-9CFA-BF38A8BE0BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A975D863-1CC4-437B-9CFA-BF38A8BE0BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A975D863-1CC4-437B-9CFA-BF38A8BE0BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58594E2B-AE92-4056-8A96-F711C4232BD2}
+	EndGlobalSection
+EndGlobal
