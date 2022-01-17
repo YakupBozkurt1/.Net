@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\Ucak_Rezervasyon_Sistemi\Ucak_Rezervasyon_Sistemi\bin\Debug\Ucak_Rezervasyon_Sistemi.exe.config
+C:\Users\YAKUP\source\repos\Ucak_Rezervasyon_Sistemi\Ucak_Rezervasyon_Sistemi\bin\Debug\Ucak_Rezervasyon_Sistemi.exe
+C:\Users\YAKUP\source\repos\Ucak_Rezervasyon_Sistemi\Ucak_Rezervasyon_Sistemi\bin\Debug\Ucak_Rezervasyon_Sistemi.pdb
+C:\Users\YAKUP\source\repos\Ucak_Rezervasyon_Sistemi\Ucak_Rezervasyon_Sistemi\obj\Debug\Ucak_Rezervasyon_Sistemi.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Ucak_Rezervasyon_Sistemi\Ucak_Rezervasyon_Sistemi\obj\Debug\Ucak_Rezervasyon_Sistemi.Form1.resources
+C:\Users\YAKUP\source\repos\Ucak_Rezervasyon_Sistemi\Ucak_Rezervasyon_Sistemi\obj\Debug\Ucak_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Ucak_Rezervasyon_Sistemi\Ucak_Rezervasyon_Sistemi\obj\Debug\Ucak_Rezervasyon_Sistemi.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Ucak_Rezervasyon_Sistemi\Ucak_Rezervasyon_Sistemi\obj\Debug\Ucak_Rezervasyon_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Ucak_Rezervasyon_Sistemi\Ucak_Rezervasyon_Sistemi\obj\Debug\Ucak_Rezervasyon_Sistemi.exe
+C:\Users\YAKUP\source\repos\Ucak_Rezervasyon_Sistemi\Ucak_Rezervasyon_Sistemi\obj\Debug\Ucak_Rezervasyon_Sistemi.pdb

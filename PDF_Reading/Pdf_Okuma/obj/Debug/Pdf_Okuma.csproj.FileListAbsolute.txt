@@ -1,0 +1,15 @@
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\bin\Debug\Pdf_Okuma.exe.config
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\bin\Debug\Pdf_Okuma.exe
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\bin\Debug\Pdf_Okuma.pdb
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\obj\Debug\Pdf_Okuma.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\obj\Debug\Pdf_Okuma.csproj.ResolveComReference.cache
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\obj\Debug\Pdf_Okuma.Form1.resources
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\obj\Debug\Pdf_Okuma.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\obj\Debug\Pdf_Okuma.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\obj\Debug\Pdf_Okuma.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\obj\Debug\Pdf_Okuma.exe
+C:\Users\YAKUP\source\repos\Pdf_Okuma\Pdf_Okuma\obj\Debug\Pdf_Okuma.pdb
