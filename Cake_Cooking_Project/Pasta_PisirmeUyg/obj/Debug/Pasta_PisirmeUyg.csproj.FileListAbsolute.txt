@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\Pasta_PisirmeUyg\Pasta_PisirmeUyg\obj\Debug\Pasta_PisirmeUyg.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Pasta_PisirmeUyg\Pasta_PisirmeUyg\obj\Debug\Pasta_PisirmeUyg.Form1.resources
+C:\Users\YAKUP\source\repos\Pasta_PisirmeUyg\Pasta_PisirmeUyg\obj\Debug\Pasta_PisirmeUyg.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Pasta_PisirmeUyg\Pasta_PisirmeUyg\obj\Debug\Pasta_PisirmeUyg.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Pasta_PisirmeUyg\Pasta_PisirmeUyg\obj\Debug\Pasta_PisirmeUyg.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Pasta_PisirmeUyg\Pasta_PisirmeUyg\bin\Debug\Pasta_PisirmeUyg.exe.config
+C:\Users\YAKUP\source\repos\Pasta_PisirmeUyg\Pasta_PisirmeUyg\bin\Debug\Pasta_PisirmeUyg.exe
+C:\Users\YAKUP\source\repos\Pasta_PisirmeUyg\Pasta_PisirmeUyg\bin\Debug\Pasta_PisirmeUyg.pdb
+C:\Users\YAKUP\source\repos\Pasta_PisirmeUyg\Pasta_PisirmeUyg\obj\Debug\Pasta_PisirmeUyg.exe
+C:\Users\YAKUP\source\repos\Pasta_PisirmeUyg\Pasta_PisirmeUyg\obj\Debug\Pasta_PisirmeUyg.pdb

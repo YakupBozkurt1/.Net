@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\Chart_Kullanimi\Chart_Kullanimi\bin\Debug\Chart_Kullanimi.exe.config
+C:\Users\YAKUP\source\repos\Chart_Kullanimi\Chart_Kullanimi\bin\Debug\Chart_Kullanimi.exe
+C:\Users\YAKUP\source\repos\Chart_Kullanimi\Chart_Kullanimi\bin\Debug\Chart_Kullanimi.pdb
+C:\Users\YAKUP\source\repos\Chart_Kullanimi\Chart_Kullanimi\obj\Debug\Chart_Kullanimi.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Chart_Kullanimi\Chart_Kullanimi\obj\Debug\Chart_Kullanimi.Form1.resources
+C:\Users\YAKUP\source\repos\Chart_Kullanimi\Chart_Kullanimi\obj\Debug\Chart_Kullanimi.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Chart_Kullanimi\Chart_Kullanimi\obj\Debug\Chart_Kullanimi.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Chart_Kullanimi\Chart_Kullanimi\obj\Debug\Chart_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Chart_Kullanimi\Chart_Kullanimi\obj\Debug\Chart_Kullanimi.exe
+C:\Users\YAKUP\source\repos\Chart_Kullanimi\Chart_Kullanimi\obj\Debug\Chart_Kullanimi.pdb

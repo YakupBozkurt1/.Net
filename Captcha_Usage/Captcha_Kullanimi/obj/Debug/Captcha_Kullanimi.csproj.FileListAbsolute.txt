@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\Captcha_Kullanimi\Captcha_Kullanimi\bin\Debug\Captcha_Kullanimi.exe.config
+C:\Users\YAKUP\source\repos\Captcha_Kullanimi\Captcha_Kullanimi\bin\Debug\Captcha_Kullanimi.exe
+C:\Users\YAKUP\source\repos\Captcha_Kullanimi\Captcha_Kullanimi\bin\Debug\Captcha_Kullanimi.pdb
+C:\Users\YAKUP\source\repos\Captcha_Kullanimi\Captcha_Kullanimi\obj\Debug\Captcha_Kullanimi.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Captcha_Kullanimi\Captcha_Kullanimi\obj\Debug\Captcha_Kullanimi.Form1.resources
+C:\Users\YAKUP\source\repos\Captcha_Kullanimi\Captcha_Kullanimi\obj\Debug\Captcha_Kullanimi.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Captcha_Kullanimi\Captcha_Kullanimi\obj\Debug\Captcha_Kullanimi.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Captcha_Kullanimi\Captcha_Kullanimi\obj\Debug\Captcha_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Captcha_Kullanimi\Captcha_Kullanimi\obj\Debug\Captcha_Kullanimi.exe
+C:\Users\YAKUP\source\repos\Captcha_Kullanimi\Captcha_Kullanimi\obj\Debug\Captcha_Kullanimi.pdb
