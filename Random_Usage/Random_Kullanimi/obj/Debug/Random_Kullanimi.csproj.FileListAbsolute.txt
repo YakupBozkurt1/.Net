@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\Random_Kullanimi\Random_Kullanimi\bin\Debug\Random_Kullanimi.exe.config
+C:\Users\YAKUP\source\repos\Random_Kullanimi\Random_Kullanimi\bin\Debug\Random_Kullanimi.exe
+C:\Users\YAKUP\source\repos\Random_Kullanimi\Random_Kullanimi\bin\Debug\Random_Kullanimi.pdb
+C:\Users\YAKUP\source\repos\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.Form1.resources
+C:\Users\YAKUP\source\repos\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.exe
+C:\Users\YAKUP\source\repos\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.pdb

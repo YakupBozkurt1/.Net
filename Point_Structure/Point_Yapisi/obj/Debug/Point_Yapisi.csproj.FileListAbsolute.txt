@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\Point_Yapisi\Point_Yapisi\bin\Debug\Point_Yapisi.exe.config
+C:\Users\YAKUP\source\repos\Point_Yapisi\Point_Yapisi\bin\Debug\Point_Yapisi.exe
+C:\Users\YAKUP\source\repos\Point_Yapisi\Point_Yapisi\bin\Debug\Point_Yapisi.pdb
+C:\Users\YAKUP\source\repos\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.Form1.resources
+C:\Users\YAKUP\source\repos\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.exe
+C:\Users\YAKUP\source\repos\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.pdb

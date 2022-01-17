@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe.config
+C:\Users\YAKUP\source\repos\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe
+C:\Users\YAKUP\source\repos\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\Users\YAKUP\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+C:\Users\YAKUP\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.exe
+C:\Users\YAKUP\source\repos\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb
