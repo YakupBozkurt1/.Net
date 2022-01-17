@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.Form1.resources
+C:\Users\YAKUP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\YAKUP\source\repos\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\YAKUP\source\repos\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\YAKUP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\YAKUP\source\repos\Metotlar\Metotlar\obj\Debug\Metotlar.pdb
