@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\Timer_2\Timer_2\bin\Debug\Timer_2.exe.config
+C:\Users\YAKUP\source\repos\Timer_2\Timer_2\bin\Debug\Timer_2.exe
+C:\Users\YAKUP\source\repos\Timer_2\Timer_2\bin\Debug\Timer_2.pdb
+C:\Users\YAKUP\source\repos\Timer_2\Timer_2\obj\Debug\Timer_2.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Timer_2\Timer_2\obj\Debug\Timer_2.Form1.resources
+C:\Users\YAKUP\source\repos\Timer_2\Timer_2\obj\Debug\Timer_2.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Timer_2\Timer_2\obj\Debug\Timer_2.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Timer_2\Timer_2\obj\Debug\Timer_2.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Timer_2\Timer_2\obj\Debug\Timer_2.exe
+C:\Users\YAKUP\source\repos\Timer_2\Timer_2\obj\Debug\Timer_2.pdb
