@@ -1,0 +1,10 @@
+C:\Users\YAKUP\source\repos\Sınıflar_Kapsulleme\Sınıflar_Kapsulleme\obj\Debug\Sınıflar_Kapsulleme.csprojAssemblyReference.cache
+C:\Users\YAKUP\source\repos\Sınıflar_Kapsulleme\Sınıflar_Kapsulleme\obj\Debug\Sınıflar_Kapsulleme.Form1.resources
+C:\Users\YAKUP\source\repos\Sınıflar_Kapsulleme\Sınıflar_Kapsulleme\obj\Debug\Sınıflar_Kapsulleme.Properties.Resources.resources
+C:\Users\YAKUP\source\repos\Sınıflar_Kapsulleme\Sınıflar_Kapsulleme\obj\Debug\Sınıflar_Kapsulleme.csproj.GenerateResource.cache
+C:\Users\YAKUP\source\repos\Sınıflar_Kapsulleme\Sınıflar_Kapsulleme\obj\Debug\Sınıflar_Kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\YAKUP\source\repos\Sınıflar_Kapsulleme\Sınıflar_Kapsulleme\bin\Debug\Sınıflar_Kapsulleme.exe.config
+C:\Users\YAKUP\source\repos\Sınıflar_Kapsulleme\Sınıflar_Kapsulleme\bin\Debug\Sınıflar_Kapsulleme.exe
+C:\Users\YAKUP\source\repos\Sınıflar_Kapsulleme\Sınıflar_Kapsulleme\bin\Debug\Sınıflar_Kapsulleme.pdb
+C:\Users\YAKUP\source\repos\Sınıflar_Kapsulleme\Sınıflar_Kapsulleme\obj\Debug\Sınıflar_Kapsulleme.exe
+C:\Users\YAKUP\source\repos\Sınıflar_Kapsulleme\Sınıflar_Kapsulleme\obj\Debug\Sınıflar_Kapsulleme.pdb
